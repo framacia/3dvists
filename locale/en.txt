@@ -1,0 +1,14 @@
+#: locale=en
+
+## Tour
+
+### Title
+tour.name = Untitled 1
+
+## Media
+
+### Title
+album_1D8467E8_0C3C_5B25_4184_6DE928F36F64.label = Photo Album public-exhibition-dec-2017-panels_Page_02
+panorama_1C4864BA_0C5C_5D24_41A2_3E11B08A9597.label = RT_SW
+panorama_F45B77AF_F882_87AB_41E4_E0F3535847DF.label = RT_MainTarget
+video_1F812BEE_0E59_0D6B_41A0_22F50D1F2A57.label = A9 Killiecrankie to Glen Garry Video
